@@ -11,4 +11,4 @@ Q2:<b>Array Manipulation</b>
 <br>
 Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
 
-[Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/bd945d710b60b836aeda3b4aebb2b547f5b3a40c/Q1.py)
+[Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q2.py)
