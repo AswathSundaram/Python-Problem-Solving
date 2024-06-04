@@ -5,4 +5,4 @@ It is New Year's Day and people are in line for the Wonderland rollercoaster rid
 Determine the minimum number of bribes that took place to get to a given queue order. Print the number of bribes, or, if anyone has bribed more than two people, print Too chaotic.
 
 
-[Solution]()
+[Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/bd945d710b60b836aeda3b4aebb2b547f5b3a40c/Q1.py)
