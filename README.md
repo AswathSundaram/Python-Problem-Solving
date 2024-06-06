@@ -17,6 +17,7 @@ Starting with a 1-indexed array of zeros and a list of operations, for each oper
 Dictionaries and Hashmaps:
 <br>
 Q3:<b>Counting Triplets</b>
+<br>
 You are given an array and you need to find number of tripets of indices  such that the elements at those indices are in geometric progression for a given common ratio  and i< j <k
 
 [Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q3.py)
