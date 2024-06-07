@@ -21,3 +21,14 @@ Q3:<b>Counting Triplets</b>
 You are given an array and you need to find number of tripets of indices  such that the elements at those indices are in geometric progression for a given common ratio  and i< j <k
 
 [Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q3.py)
+
+Q4:<b>Frequency Queries</b>
+<br>
+ou are given  queries. Each query is of the form two integers described below:
+- 1 x : Insert x in your data structure.
+- 2 y  : Delete one occurence of y from your data structure, if present.
+- 3 z : Check if any integer is present whose frequency is exactly z. If yes, print 1 else 0.
+
+The queries are given in the form of a 2-D array queries of size  where queries[i][0] contains the operation, and queries[i][1 contains the data element.
+
+[Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q4.py)
