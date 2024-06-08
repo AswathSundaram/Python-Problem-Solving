@@ -32,3 +32,12 @@ ou are given  queries. Each query is of the form two integers described below:
 The queries are given in the form of a 2-D array queries of size  where queries[i][0] contains the operation, and queries[i][1 contains the data element.
 
 [Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q4.py)
+
+Sorting:
+<br>
+Q3:<b>Merge Sort:Counting Inversions</b>
+<br>
+In an array, arr, the elements at indices i and j (where i<j) form an inversion if arr[i]>arr[j]. In other words, inverted elements arr[i] and arr[j] are considered to be "out of order". To correct an inversion, we can swap adjacent elements.
+
+[Solution](https://github.com/AswathSundaram/Python-Problem-Solving/blob/main/Q5.py)
+
