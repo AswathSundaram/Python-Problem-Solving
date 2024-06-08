@@ -1,18 +1,5 @@
 
-def arrayManipulation(n, queries):                               
-    # Write your code here
-    l=[]
-    for i in range(n):
-        l.append(0)
-    l1=len(queries)
-    for query in queries:
-        a, b, k = query
-        for q in range(a-1,b):
-            l[q]+=k
-    qq=max(l)
-    return qq
-  
-# but for large data its not working and the correct solution seems to be:
+
 def arrayManipulation(n, queries):
     arr = [0] * (n + 1)
     for query in queries:
